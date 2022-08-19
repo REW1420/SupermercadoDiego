@@ -119,7 +119,7 @@ fun main(args: Array<String>) {
         } while (opcion != 4)
 
         println("Cerrando programa")
-   
+
 
 }
 
